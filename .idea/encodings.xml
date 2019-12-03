@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-entitys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-entitys/weixin-api-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-servie-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-servie-impl/member-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apiservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apiservice/api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apiservice/member-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka" charset="UTF-8" />
+  </component>
+</project>

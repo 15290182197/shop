@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apiweixin" />
+        <module name="memberservice" />
+        <module name="memberserviceimpl" />
+        <module name="mtbasicspringCloudeureka" />
+        <module name="weixinapientity" />
+        <module name="weixinserviceimpl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comkeitektshopbasicspringCloudeureka" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="apientitys" options="-parameters" />
+      <module name="apiservice" options="-parameters" />
+      <module name="apiservieimpl" options="-parameters" />
+      <module name="apiweixin" options="-parameters" />
+      <module name="memberservice" options="-parameters" />
+      <module name="memberserviceimpl" options="-parameters" />
+      <module name="mtbasicspringCloudeureka" options="-parameters" />
+      <module name="weixinapientity" options="-parameters" />
+      <module name="weixinserviceimpl" options="-parameters" />
+    </option>
+  </component>
+</project>
