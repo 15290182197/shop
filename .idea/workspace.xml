@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cb10e8d-385f-4ca1-92e4-33023d5b36a2" name="Default Changelist" comment="" />
+    <list default="true" id="0cb10e8d-385f-4ca1-92e4-33023d5b36a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/api-entitys/member-api-entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/builder/AbstractBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/builder/ImageBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/builder/TextBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/config/WxMpConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/config/WxMpProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/controller/WxMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/controller/WxPortalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/controller/WxRedirectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/error/ErrorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/error/ErrorPageConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/AbstractHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/KfSessionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/LocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/LogHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/MenuHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/MsgHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/NullHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/ScanHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/StoreCheckNotifyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/SubscribeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/UnsubscribeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/utils/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/VerificaCodeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/MemberRegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/VerificaCodeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/mtbasicspringCloudzuul.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/java/springcloudZuul/AppZuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/java/springcloudZuul/filter/TokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-common/shop-common-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/base/BaseApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/base/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/coreUtils/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/coreUtils/RegexUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-entity/shopentity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3073e4ffb2e95ace4073fbe9b6979434071ef72b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3073e4ffb2e95ace4073fbe9b6979434071ef72b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34aef7b6d598c28e8a09badaf85167b2fb3f420c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34aef7b6d598c28e8a09badaf85167b2fb3f420c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43cc91e0ef3c5550bbab343834f28883249575b6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43cc91e0ef3c5550bbab343834f28883249575b6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d6f1f2c33b421e9f9d79e9b600c25876f0de039" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d6f1f2c33b421e9f9d79e9b600c25876f0de039" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d9edd02b7b9eb071629438c563b49152eae72c9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d9edd02b7b9eb071629438c563b49152eae72c9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-entitys/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-entitys/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/AppMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/AppMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/feign/WinxinServcieFetgn.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/feign/WinxinServcieFetgn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/serviceimpl/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/serviceimpl/MemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/member-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/member-service-impl/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/member-service-impl/target/classes/member/AppMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/member-service-impl/target/classes/member/AppMember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/member-service-impl/target/classes/member/feign/WinxinServcieFetgn.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/member-service-impl/target/classes/member/feign/WinxinServcieFetgn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/member-service-impl/target/classes/member/serviceimpl/MemberServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/member-service-impl/target/classes/member/serviceimpl/MemberServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/WeixinServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/WeixinServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/target/classes/weixinServiceImpl/serviceImpl/WeixinServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/target/classes/weixinServiceImpl/serviceImpl/WeixinServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiservice/api-weixin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiservice/api-weixin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/WeixinService.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/WeixinService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiservice/member-service/src/main/java/member/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiservice/member-service/src/main/java/member/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiservice/member-service/target/classes/member/service/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/apiservice/member-service/target/classes/member/service/MemberService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/meite-shop-basic/target/" />
@@ -15,6 +90,11 @@
     <ignored path="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/target/" />
     <ignored path="$PROJECT_DIR$/apiservice/member-service/target/" />
     <ignored path="$PROJECT_DIR$/api-servie-impl/member-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/shop-common/target/" />
+    <ignored path="$PROJECT_DIR$/shop-entity/target/" />
+    <ignored path="$PROJECT_DIR$/shop-common/shop-common-core/target/" />
+    <ignored path="$PROJECT_DIR$/api-entitys/member-api-entity/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,36 +118,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/serviceimpl/MemberServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/WeixinServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="192">
+              <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/WeixinService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/AppMember.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,8 +134,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/AppWeixin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="240">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/base/BaseApiService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,66 +158,79 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/constants/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="45" />
+            <state relative-caret-position="80">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/VerificaCodeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/VerificaCodeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/MemberRegisterService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/UserEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-entitys/member-api-entity/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/WeixinServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/feign/WinxinServcieFetgn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apiservice/member-service/src/main/java/member/service/MemberService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="396">
+              <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apiservice/member-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -171,37 +256,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/meite-shop-basic/com-keitekt-shop-basic-springCloud-eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/meite-shop-basic/pom.xml" />
-        <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka/src/main/resources/Application.properties" />
-        <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka/src/main/java/AppEureka.java" />
-        <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka/src/main/java/com/mt/AppEureka.java" />
-        <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/entity/AppEntity.java" />
         <option value="$PROJECT_DIR$/api-entitys/pom.xml" />
-        <option value="$PROJECT_DIR$/api-entitys/weixin-api-entity/pom.xml" />
         <option value="$PROJECT_DIR$/api-entitys/weixin-api-entity/src/main/java/entity/AppEntity.java" />
         <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/WeixinServiceImpl.java" />
         <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/AppWeixin.java" />
-        <option value="$PROJECT_DIR$/apiservice/api-weixin/pom.xml" />
         <option value="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/serviceimpl/feign/WinxinServcieFetgn.java" />
-        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/pom.xml" />
         <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/api-servie-impl/pom.xml" />
         <option value="$PROJECT_DIR$/api-entitys/weixin-api-entity/src/main/java/entity/Test.java" />
         <option value="$PROJECT_DIR$/api-servie-impl/member-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/apiservice/member-service/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/feign/WinxinServcieFetgn.java" />
         <option value="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/AppMember.java" />
-        <option value="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/serviceimpl/MemberServiceImpl.java" />
-        <option value="$PROJECT_DIR$/apiservice/pom.xml" />
-        <option value="$PROJECT_DIR$/apiservice/member-service/pom.xml" />
-        <option value="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/apiservice/member-service/src/main/java/member/service/MemberService.java" />
         <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/AppWeixin.java" />
+        <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/java/springcloudZuul.java" />
+        <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/java/springcloudZuul/filter/TokenFilter.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/serviceimpl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/java/springcloudZuul/AppZuul.java" />
+        <option value="$PROJECT_DIR$/api-entitys/weixin-api-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/apiservice/api-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/error/ErrorController.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/LogHandler.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/controller/WxRedirectController.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/LocationHandler.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/config/WxMpConfiguration.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/SubscribeHandler.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/config/WxMpProperties.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/controller/WxMenuController.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/controller/WxPortalController.java" />
+        <option value="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/coreUtils/RegexUtils.java" />
+        <option value="$PROJECT_DIR$/shop-common/shop-common-core/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/coreUtils/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/coreUtils/com/constants/Constants.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/utils/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/MsgHandler.java" />
+        <option value="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/base/BaseResponse.java" />
+        <option value="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/base/BaseApiService.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/api-servie-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/apiservice/pom.xml" />
         <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/WeixinServiceImpl.java" />
         <option value="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/WeixinService.java" />
-        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/VerificaCodeService.java" />
+        <option value="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/VerificaCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/MemberRegisterService.java" />
+        <option value="$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/UserEntity.java" />
+        <option value="$PROJECT_DIR$/apiservice/member-service/src/main/java/member/service/MemberService.java" />
       </list>
     </option>
   </component>
@@ -222,45 +327,31 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="member-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="meiti-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="member-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="member-service-impl" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="member-service-impl" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mt-basic-springCloud-eureka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="meiti-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="29" />
-    <option name="y" value="32" />
-    <option name="width" value="1280" />
-    <option name="height" value="713" />
+    <option name="x" value="174" />
+    <option name="y" value="-876" />
+    <option name="width" value="1369" />
+    <option name="height" value="785" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,159 +362,34 @@
             <path>
               <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="api-entitys" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="api-entitys" type="462c0819:PsiDirectoryNode" />
+              <item name="member-api-entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="api-entitys" type="462c0819:PsiDirectoryNode" />
+              <item name="member-api-entity" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceimpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin-service-impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="api-entitys" type="462c0819:PsiDirectoryNode" />
+              <item name="member-api-entity" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="weixinServiceImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="weixinServiceImpl" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="api-servie-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="apiservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="apiservice" type="462c0819:PsiDirectoryNode" />
-              <item name="api-weixin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="apiservice" type="462c0819:PsiDirectoryNode" />
-              <item name="api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="apiservice" type="462c0819:PsiDirectoryNode" />
-              <item name="api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="apiservice" type="462c0819:PsiDirectoryNode" />
-              <item name="api-weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="api-entitys" type="462c0819:PsiDirectoryNode" />
+              <item name="member-api-entity" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -432,11 +398,6 @@
               <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meitishopparent" type="462c0819:PsiDirectoryNode" />
               <item name="apiservice" type="462c0819:PsiDirectoryNode" />
-              <item name="api-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="weixin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meitishopparent" type="b2602c69:ProjectViewProjectNode" />
@@ -482,6 +443,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -491,8 +455,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575264864129" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577238333530" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -506,9 +470,15 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="weixinServiceImpl.mp.utils" />
+      <recent name="springcloudZuul" />
       <recent name="entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/base" />
+      <recent name="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl" />
+      <recent name="$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/resources" />
+      <recent name="$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/resources" />
       <recent name="$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/resources" />
     </key>
   </component>
@@ -577,8 +547,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppZuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mtbasicspringCloudzuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="springcloudZuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloudZuul.AppZuul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.AppZuul" />
         <item itemvalue="Spring Boot.AppMember" />
         <item itemvalue="Application.Test" />
       </list>
@@ -598,17 +582,22 @@
       <workItem from="1575191333241" duration="11929000" />
       <workItem from="1575212953758" duration="9291000" />
       <workItem from="1575339549899" duration="190000" />
+      <workItem from="1576941237265" duration="15340000" />
+      <workItem from="1577068371663" duration="573000" />
+      <workItem from="1577083950625" duration="507000" />
+      <workItem from="1577086183080" duration="3001000" />
+      <workItem from="1577155750676" duration="3145000" />
+      <workItem from="1577193316232" duration="9096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27630000" />
+    <option name="totallyTimeSpent" value="59292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="32" width="1280" height="713" extended-state="0" />
-    <editor active="true" />
+    <frame x="174" y="-876" width="1369" height="785" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34652665" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2464205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -618,16 +607,16 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48494983" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.27462685" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19471948" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3285968" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.40468228" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.34512022" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.2541806" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3110368" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3285968" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -648,72 +637,194 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/meite-shop-basic/com-keitekt-shop-basic-springCloud-eureka/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/meite-shop-basic/com-keitekt-shop-basic-springCloud-eureka/src/main/java/com/meitekt/App.java" />
-    <entry file="file://$PROJECT_DIR$/api-entitys/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-entitys/weixin-api-entity/src/main/java/entity/AppEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.14/swagger-annotations-1.5.14.jar!/io/swagger/annotations/Api.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        <state relative-caret-position="138">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/feign/WinxinServcieFetgn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="160">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/java/springcloudZuul.java" />
+    <entry file="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/java/springcloudZuul/filter/TokenFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul/src/main/java/springcloudZuul/AppZuul.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api-entitys/weixin-api-entity/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.M7/spring-cloud-netflix-eureka-client-2.0.0.M7.pom" />
-    <entry file="file://$PROJECT_DIR$/meite-shop-basic/pom.xml">
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/AppMember.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="260">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/pom.xml">
+    <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="540">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka/pom.xml">
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        <state relative-caret-position="460">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="76" column="11" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+        <state relative-caret-position="1740">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/error/ErrorController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/LogHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/controller/WxRedirectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/LocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/config/WxMpConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/SubscribeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/config/WxMpProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/controller/WxMenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/controller/WxPortalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka/src/main/java/com/mt/AppEureka.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#324#325#0" expanded="true" />
@@ -722,95 +833,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.M7/spring-cloud-netflix-eureka-client-2.0.0.M7.jar!/org/springframework/cloud/netflix/eureka/EnableEurekaClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-servie-impl/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2544">
-          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-entitys/weixin-api-entity/src/main/java/entity/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/spring4all/swagger-spring-boot-starter/1.7.0.RELEASE/swagger-spring-boot-starter-1.7.0.RELEASE.pom">
+    <entry file="file://$PROJECT_DIR$/shop-entity/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/pom.xml">
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/utils/JsonUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="140">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apiservice/pom.xml">
+    <entry file="file://$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/coreUtils/RegexUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/serviceimpl/MemberServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="-2510">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/WeixinService.java">
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/utils/RedisUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="-4" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/mp/handler/MsgHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/AppMember.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/AppWeixin.java">
+    <entry file="file://$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/coreUtils/RedisUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -819,53 +880,179 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="120">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/shop-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/shop-common-core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="360">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/feign/WinxinServcieFetgn.java">
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/member-service-impl/src/main/java/member/serviceimpl/MemberServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="127">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apiservice/member-service/src/main/java/member/service/MemberService.java">
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiservice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/base/BaseResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-entitys/weixin-api-entity/src/main/java/entity/AppEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.30/fastjson-1.2.30.jar!/com/alibaba/fastjson/JSONObject.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="19" />
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/WeixinService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apiservice/member-service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/AppWeixin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="240">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/WeixinServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        <state relative-caret-position="192">
+          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/VerificaCodeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/shop-common-core/src/main/java/com/common/base/BaseApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-servie-impl/weixin-service-impl/src/main/java/weixinServiceImpl/serviceImpl/VerificaCodeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/MemberRegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiservice/api-weixin/src/main/java/service/weixin/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-entitys/member-api-entity/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiservice/member-service/src/main/java/member/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

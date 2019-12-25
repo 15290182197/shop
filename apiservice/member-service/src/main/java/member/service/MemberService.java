@@ -9,4 +9,8 @@ public interface MemberService {
     @ApiOperation(value = "会员服务调用微信服务")
     @GetMapping("/memberToWeixin")
     public AppEntity memberToWeixin();
+
+    @ApiOperation(value = "会员服务")
+    @GetMapping("/")
+    public String Weixin();
 }

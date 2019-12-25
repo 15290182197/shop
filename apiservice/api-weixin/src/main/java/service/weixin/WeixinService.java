@@ -1,12 +1,19 @@
 package service.weixin;
 
+import com.common.base.BaseResponse;
 import entity.AppEntity;
 import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiImplicitParam;
+import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.GetMapping;
 @Api(tags = "会员服务")
 public interface WeixinService {
     @ApiOperation("查询微信app")
     @GetMapping("/getApp")
-    public AppEntity getApp();
+    public BaseResponse<AppEntity> getApp();
+
+
+
+
 }

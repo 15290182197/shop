@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>mt-basic-springCloud-eureka</module>
+        <module>mt-basic-springCloud-zuul</module>
     </modules>
 
 

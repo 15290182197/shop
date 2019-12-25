@@ -1,0 +1,3 @@
+member/AppMember.class
+member/feign/WinxinServcieFetgn.class
+member/serviceimpl/MemberServiceImpl.class

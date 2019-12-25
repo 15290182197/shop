@@ -1,15 +1,16 @@
 package member;
 
-import com.spring4all.swagger.EnableSwagger2Doc;
-import org.springframework.boot.SpringApplication;
+ import com.spring4all.swagger.EnableSwagger2Doc;
+ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
-import org.springframework.cloud.openfeign.FeignClient;
-import springfox.documentation.swagger2.annotations.EnableSwagger2;
+ import org.springframework.cloud.openfeign.EnableFeignClients;
+ import org.springframework.cloud.openfeign.FeignClient;
 
 @SpringBootApplication
 @EnableEurekaClient
 @FeignClient
+@EnableFeignClients("member.feign")
 @EnableSwagger2Doc
 public class AppMember {
     public static void main(String[] args) {

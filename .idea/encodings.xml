@@ -3,6 +3,7 @@
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-entitys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-entitys/member-api-entity" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-entitys/weixin-api-entity" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-servie-impl" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-servie-impl/member-service-impl" charset="UTF-8" />
@@ -12,5 +13,9 @@
     <file url="file://$PROJECT_DIR$/apiservice/member-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-basic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basic/mt-basic-springCloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-common/shop-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-entity" charset="UTF-8" />
   </component>
 </project>

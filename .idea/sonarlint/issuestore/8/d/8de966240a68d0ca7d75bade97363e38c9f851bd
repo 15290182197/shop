@@ -1,0 +1,7 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ºè½
+Zsquid:S1155"">Use isEmpty() to check whether the collection is empty or not.(–ÄŒˆüÿÿÿÿ
+?squid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ssquid:UselessImportCheck
+"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›
+Hsquid:S1135"2Complete the task associated to this TODO comment.(´Àã2
