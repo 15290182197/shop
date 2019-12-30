@@ -1,1 +1,6 @@
-member/service/MemberService.class
+com/member/output/dto/UserOutDTO.class
+com/member/input/dto/UserLoginInpDTO.class
+com/member/service/MemberRegisterService.class
+com/member/service/MemberService.class
+com/member/input/dto/UserInpDTO.class
+com/member/service/MemberLoginService.class

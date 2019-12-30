@@ -1,3 +1,9 @@
-member/AppMember.class
-member/feign/WinxinServcieFetgn.class
-member/serviceimpl/MemberServiceImpl.class
+com/member/mapper/UserMapper.class
+com/member/serviceimpl/MemberServiceImpl.class
+com/member/mapper/UserTokenMapper.class
+com/AppMember.class
+com/member/serviceimpl/MemberLoginServiceImpl.class
+com/member/serviceimpl/MemberRegisterServiceImpl.class
+com/member/feign/VerificaCodeServiceFeign.class
+com/member/mapper/entity/UserTokenDo.class
+com/member/mapper/entity/UserDo.class

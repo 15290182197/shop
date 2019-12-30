@@ -7,19 +7,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="apiweixin" />
-        <module name="memberapientity" />
         <module name="memberservice" />
         <module name="memberserviceimpl" />
         <module name="mtbasicspringCloudeureka" />
         <module name="mtbasicspringCloudzuul" />
         <module name="shopcommoncore" />
-        <module name="shopentity" />
-        <module name="weixinapientity" />
+        <module name="shopcommonportalwebcore" />
+        <module name="shopportalweb" />
         <module name="weixinserviceimpl" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="apientitys" target="1.8" />
       <module name="comkeitektshopbasicspringCloudeureka" target="1.7" />
+      <module name="memberapientity" target="1.8" />
+      <module name="shopentity" target="1.8" />
+      <module name="weixinapientity" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -35,7 +38,10 @@
       <module name="mtbasicspringCloudzuul" options="-parameters" />
       <module name="shopcommon" options="-parameters" />
       <module name="shopcommoncore" options="-parameters" />
+      <module name="shopcommonportalwebcore" options="-parameters" />
       <module name="shopentity" options="-parameters" />
+      <module name="shopportal" options="-parameters" />
+      <module name="shopportalweb" options="-parameters" />
       <module name="weixinapientity" options="-parameters" />
       <module name="weixinserviceimpl" options="-parameters" />
     </option>

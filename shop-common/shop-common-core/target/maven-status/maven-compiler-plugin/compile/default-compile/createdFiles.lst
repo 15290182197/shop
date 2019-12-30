@@ -1,3 +1,12 @@
 com/common/coreUtils/RegexUtils.class
+com/common/base/BaseDo.class
+com/common/type/TypeCastHelper.class
+com/common/transaction/RedisDataSoureceTransaction.class
+com/common/coreUtils/MD5Util.class
+com/common/base/BaseApiService.class
+com/common/bean/DtoBeanUtils.class
+com/common/error/GlobalExceptionHandler.class
 com/common/constants/Constants.class
-com/common/coreUtils/RedisUtil.class
+com/common/token/GenerateToken.class
+com/common/utils/RedisUtil.class
+com/common/base/BaseResponse.class

@@ -13,10 +13,11 @@
     <modules>
         <module>meite-shop-basic</module>
         <module>apiservice</module>
-        <module>api-entitys</module>
         <module>api-servie-impl</module>
         <module>shop-common</module>
-        <module>shop-entity</module>
+        <module>shop-portal-web</module>
+        <module>shop-portal</module>
+
     </modules>
 
 

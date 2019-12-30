@@ -1,1 +1,6 @@
-/Users/dasouche/Desktop/mycode/shop/meitishopparent/apiservice/member-service/src/main/java/member/service/MemberService.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/apiservice/member-service/src/main/java/com/member/service/MemberRegisterService.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/apiservice/member-service/src/main/java/com/member/service/MemberLoginService.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/apiservice/member-service/src/main/java/com/member/input/dto/UserInpDTO.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/apiservice/member-service/src/main/java/com/member/output/dto/UserOutDTO.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/apiservice/member-service/src/main/java/com/member/input/dto/UserLoginInpDTO.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/apiservice/member-service/src/main/java/com/member/service/MemberService.java

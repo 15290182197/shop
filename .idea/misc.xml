@@ -9,7 +9,10 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/api-entitys/pom.xml" />
         <option value="$PROJECT_DIR$/meite-shop-basic/com-keitekt-shop-basic-springCloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-portal-web/pom.xml" />
       </set>
     </option>
   </component>

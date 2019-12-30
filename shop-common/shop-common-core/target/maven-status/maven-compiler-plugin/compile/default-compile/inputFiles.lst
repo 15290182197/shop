@@ -1,3 +1,12 @@
-/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/coreUtils/RedisUtil.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/token/GenerateToken.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/coreUtils/MD5Util.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/base/BaseApiService.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/type/TypeCastHelper.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/utils/RedisUtil.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/bean/DtoBeanUtils.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/transaction/RedisDataSoureceTransaction.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/base/BaseResponse.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/base/BaseDo.java
 /Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/constants/Constants.java
 /Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/coreUtils/RegexUtils.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/shop-common/shop-common-core/src/main/java/com/common/error/GlobalExceptionHandler.java

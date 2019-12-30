@@ -1,3 +1,9 @@
-/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/member/serviceimpl/MemberServiceImpl.java
-/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/member/feign/WinxinServcieFetgn.java
-/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/member/AppMember.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/com/member/serviceimpl/MemberLoginServiceImpl.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/com/member/serviceimpl/MemberServiceImpl.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/com/member/mapper/UserMapper.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/com/member/mapper/entity/UserTokenDo.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/com/AppMember.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/com/member/serviceimpl/MemberRegisterServiceImpl.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/com/member/feign/VerificaCodeServiceFeign.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/com/member/mapper/UserTokenMapper.java
+/Users/dasouche/Desktop/mycode/shop/meitishopparent/api-servie-impl/member-service-impl/src/main/java/com/member/mapper/entity/UserDo.java

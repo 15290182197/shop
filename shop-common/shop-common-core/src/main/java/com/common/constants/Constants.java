@@ -7,6 +7,8 @@ public interface Constants {
 	String HTTP_RES_CODE_500_VALUE = "fial";
 	// 响应请求成功code
 	Integer HTTP_RES_CODE_200 = 200;
+	//qq openId不存在
+	Integer HTTP_RES_CODE_NOTUSER_203 = 203;
 	// 系统错误
 	Integer HTTP_RES_CODE_500 = 500;
 	// 未关联QQ账号
@@ -24,5 +26,22 @@ public interface Constants {
 	String WEIXINCODE_KEY = "weixin.code";
 	// 微信注册码有效期30分钟
 	Long WEIXINCODE_TIMEOUT = 1800l;
+
+	Integer HTTP_RES_CODE_EXISTMOBILE_202=202;
+
+
+	// token
+	String MEMBER_TOKEN_KEYPREFIX = "mt.mb.login";
+
+	// 安卓的登陆类型
+	String MEMBER_LOGIN_TYPE_ANDROID = "Android";
+	// IOS的登陆类型
+	String MEMBER_LOGIN_TYPE_IOS = "IOS";
+
+	// PC的登陆类型
+	String MEMBER_LOGIN_TYPE_PC = "PC";
+
+	// 登陆超时时间 有效期 90天
+	Long MEMBRE_LOGIN_TOKEN_TIME = 77776000L;
 
 }
